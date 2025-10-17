@@ -1,6 +1,6 @@
 ---
-name: Colton
-surname: Baumler
+name: Laique M.
+surname: Djeutchouang
 position: "Graduate Student Candidate"
 pronouns: He/Him
 address: "Data Intensive Biology lab of the University of California, Davis"
@@ -8,12 +8,12 @@ address: "Data Intensive Biology lab of the University of California, Davis"
 www: ""
 email: "ccbaumler@ucdavis.edu"
 twitter: ""
-github: ccbaumler
-linkedin: colton-baumler
+github: Djeutsch
+linkedin: djeutsch
 orcid: 0000-0002-5926-7792
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: "9e2e2e"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I am deeply engaged in computational ocean systems & climate, and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
 docname: awesomecv
 output:
   vitae::awesomecv

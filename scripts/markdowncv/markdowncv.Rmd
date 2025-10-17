@@ -1,16 +1,16 @@
 ---
 title: markdowncv
-name: "Colton"
+name: "Laique M."
 namecolor: "#E1BE6A"
-surname: Baumler
+surname: Djeutchouang
 position: "Graduate Student Candidate"
 pronouns: He/Him
 address: "Data Intensive Biology lab of the University of California, Davis"
 #phone: +1 555 555 5555
 www: ""
-email: "ccbaumler@ucdavis.edu"
-github: ccbaumler
-linkedin: colton-baumler
+email: "ldjeutchouang@ucdavis.edu"
+github: Djeutsch
+linkedin: djeutsch
 orcid: 0000-0002-5926-7792
 headcolor: "#FFD700"
 addresscolor: "#A7D3DC"
@@ -18,13 +18,13 @@ codecolor: "#CCCCCC"
 backcolor: "#000"
 textcolor: "#FFFFFF"
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "I am deeply engaged in bioinformatics and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
+aboutme: "I am deeply engaged in computational ocean systems & climate, and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
 output:
   vitae::markdowncv:
-    theme: ccbaumler
+    theme: lmdjeutchouang
 css:
-  - "media/ccbaumler-screen.css"
-  - "media/ccbaumler-print.css"
+  - "media/lmdjeutchouang-screen.css"
+  - "media/lmdjeutchouang-print.css"
 ---
 
 ```{r setup, include=FALSE}
