@@ -21,10 +21,10 @@ date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: "I am deeply engaged in computational ocean systems & climate, and mentorship. I excitedly wrangle data, craft software, and create dynamic mentorship opportunities."
 output:
   vitae::markdowncv:
-    theme: lmdjeutchouang
+    theme: ccbaumler
 css:
-  - "media/lmdjeutchouang-screen.css"
-  - "media/lmdjeutchouang-print.css"
+  - "media/ccbaumler-screen.css"
+  - "media/ccbaumler-print.css"
 ---
 
 ```{r setup, include=FALSE}
